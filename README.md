@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Solutions to Data Structures and Algorithms on Coursera
+Data Structures and Algorithms [Specialization](https://www.coursera.org/specializations/data-structures-algorithms) Solutions on Coursera
